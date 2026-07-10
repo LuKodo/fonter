@@ -1,3 +1,14 @@
-./src/*
-./pkg/*
-fonter-0.1-1-any.pkg.tar.zst
+# Directorios generados por makepkg
+src/
+pkg/
+
+# Paquetes compilados
+*.pkg.tar.zst
+*.pkg.tar.xz
+*.pkg.tar.gz
+
+# Firmas de paquete
+*.sig
+
+# Archivos de log de makepkg
+*.log
