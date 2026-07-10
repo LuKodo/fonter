@@ -3,7 +3,7 @@ pkgver=0.1
 pkgrel=1
 pkgdesc="Instalador de fuentes simple, con drag & drop"
 arch=('any')
-depends=('python' 'pyside6' 'hicolor-icon-theme')
+depends=('python' 'pyside6' 'qt6-svg' 'hicolor-icon-theme')
 source=('fonter.py' 'fonter.desktop' 'fonter.svg')
 sha256sums=('SKIP' 'SKIP' 'SKIP')
 
