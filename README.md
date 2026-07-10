@@ -82,4 +82,4 @@ fonter/
 
 ## Licencia
 
-[Adivinando] Sin licencia definida todavía — agrega un `LICENSE` (MIT es lo más simple para un proyecto personal de este tamaño) si planeas que otros lo clonen o modifiquen.
+MIT — ver [LICENSE](./LICENSE).
