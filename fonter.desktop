@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Fonter
+Comment=Instala fuentes arrastrando archivos
+Exec=fonter
+Icon=fonter
+Terminal=false
+Categories=Utility;
